@@ -1,9 +1,9 @@
 # hass-evnotify
-Home Assistant component for EVNotify
+Home Assistant component for EVNotify (supporting HACS)
 
 ## Install
 
- - Clone this repo into `config/custom_components/evnotify`
+ - Install via HACS
  - Get akey and password from evnotify
  - Add something like this to `configuration.yaml`
 ```
